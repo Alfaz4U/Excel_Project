@@ -1,6 +1,8 @@
 1. Walmart Sales and Profit Analysis Dashboard
 This project offers a comprehensive analysis of Walmart Superstore's sales and profitability, providing actionable insights for strategic decision-making and operational optimization. The dynamic dashboard, designed in Microsoft Excel, visualizes key performance indicators (KPIs) and analyzes sales and profitability across various dimensions.
-#Key Features:
+
+Key Features:
+
 Identifying KPIs with Sparklines: Utilize sparklines to visually represent key performance indicators such as total sales revenue, profit margin, sales growth rate, and average transaction value, providing quick insights into performance trends.
 
 Segmentation Analysis: Examine sales and profitability data across customer segments, product categories, markets, and regions to identify trends and optimization opportunities.
